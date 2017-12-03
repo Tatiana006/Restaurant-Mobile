@@ -10,14 +10,14 @@ body
 #content
 {
 	border: 1px solid #ffffff;
-	width: 480px;
+	width: 768px;
 	height:100%;
 	margin: 0 auto;
 }
 #logo img
 {
-	width: 480px;
-	height: 200px;
+	width: 768px;
+	height: 380px;
 
 }
 #navigation li
@@ -25,57 +25,57 @@ body
 	list-style: none;
 	display: inline;
 	background-color: #55734F;
-	padding: 18px;
+	padding: 20px;
 	margin:-3px;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-	font-size: 9px;
+	font-size: 34px;
 	position: relative;
 	left: 3px;
 }
 #topphoto img
 {
 	top: 20px;
-	height:300px;
-	width:480px;
+	height:600px;
+	width:768px;
 }
 #about li
 {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	font-size: 30px;
+	font-size: 50px;
 	font-style: italic;
 	color:#B6DA62;
 	list-style: none;
 }
 #about
 {
-	font-size: 18px;
+	font-size: 28px;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	color: white;
 	background-color: #55734F;
 	padding: 1px;
-	width:480px;
+	width:768px;
 }
 #map img
 {
-	width: 480px;
-	height: 350px;
+	width: 768px;
+	height: 515px;
 }
 #map2
 {
-	font-size: 25px;
+	font-size: 28px;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	text-align: center;
 	color: white;
 }
 #cancun img
 {
-	width: 480px;
-	height:275px;
+	width: 768px;
+	height:500px;
 }
 #table li
 {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	font-size: 30px;
+	font-size: 50px;
 	font-weight: 600;
 	font-style: italic;
 	text-align: center;
@@ -83,18 +83,12 @@ body
 	list-style: none;
 	background-color: #55734F;
 }
-#table
-{
-	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	font-size: 25px;
-
-}
 #table img
 {
-	margin: 1px;
-	padding: 1px;
-	width: 150px;
-	height:150px;
+	margin: 3px;
+	padding: 3px;
+	width: 240px;
+	height:240px;
 }
 #des1 li
 {
@@ -102,16 +96,16 @@ body
 	display:table-cell;
 	background-color: white;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-	font-size: 9px;
+	font-size: 25px;
 	padding: 1px;
-	margin: 1;
+	margin: 1px;
 }
 #images2 img
 {
-	margin: 1px;
-	padding: 1px;
-	width: 150px;
-	height:150px;
+	margin: 3px;
+	padding: 3px;
+	width: 240px;
+	height:240px;
 }
 #des2 li
 {
@@ -119,16 +113,16 @@ body
 	display:table-cell;
 	background-color: white;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-	font-size: 9px;
+	font-size: 25px;
 	padding: 1px;
-	margin: 1;
+	margin: 1px;
 }
 #images3 img
 {
-	margin: 1px;
-	padding: 1px;
-	width: 150px;
-	height:150px;
+	margin: 3px;
+	padding: 3px;
+	width: 240px;
+	height:240px;
 }
 #des3 li
 {
@@ -136,16 +130,16 @@ body
 	display:table-cell;
 	background-color: white;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-	font-size: 9px;
+	font-size: 25px;
 	padding: 1px;
-	margin: 1;
+	margin: 1px;
 }
 #images4 img
 {
-	margin: 1px;
-	padding: 1px;
-	width: 150px;
-	height:150px;
+	margin: 3px;
+	padding: 3px;
+	width: 240px;
+	height:240px;
 }
 #des4 li
 {
@@ -153,14 +147,14 @@ body
 	display:table-cell;
 	background-color: white;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-	font-size: 9px;
+	font-size: 25px;
 	padding: 1px;
-	margin: 1;
+	margin: 1px;
 }
 #reviews li
 {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	font-size: 30px;
+	font-size: 50px;
 	font-weight: 600;
 	font-style: italic;
 	text-align: center;
@@ -170,8 +164,8 @@ body
 }
 #reviews img
 {
-  width: 480px;
-  height:80px;
+  width: 768px;
+  height:135px;
 }
 #space
 {
@@ -182,28 +176,30 @@ body
 {
 	
 	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	font-size: 9px;
+	font-size: 15px;
 	color: white;
 	background-color: black;
-	padding: 20px;
+	padding: 30px;
 
 }
 #careers p
 {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	font-size: 30px;
+	font-size: 50px;
 	text-align: center;
 	color:azure;
+	padding: 1px;
 }
 #careers li
 {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	font-size: 15px;
+	font-size: 25px;
 	font-style: italic;
 	text-align: center;
 	color:azure;
 	list-style: none;
 	background-color: #55734F;
+	padding: 2px;
 }
 #footNav 
 {
