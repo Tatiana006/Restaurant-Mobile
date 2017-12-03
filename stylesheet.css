@@ -1,0 +1,19 @@
+body
+{
+	margin:0;
+	padding: 0;
+}
+#content
+{
+	border: 1px solid #ffffff;
+	width: 480px;
+	height:2000px;
+	margin:0 auto;
+
+}
+p
+{
+	color: white;
+	background-color: #232323;
+	opacity: 50%;
+}
